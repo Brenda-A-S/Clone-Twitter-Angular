@@ -1,27 +1,27 @@
-# CloneTwitter
+# 📁 Projeto Clone Twitter com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Esse projeto foi desenvolvido utilizando o framework Angular durante a [iFood Dev Week](https://www.youtube.com/watch?v=ckQN6Zu5UZo&list=RDCMUCMxqhdELkftE8DuBZiwdPfg&start_radio=1) da Digital Innovation One[DIO](https://www.dio.me/).
 
-## Development server
+Me segue no [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/) e aqui no [GitHub](https://github.com/Brenda-A-S) para acompanhar a minha jornada!
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🚨 Aceito feedbacks de melhorias para esse projeto 🚨
 
-## Code scaffolding
+# 📌 Linguagens / Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Foram utilizadas linguagens que são as tecnologias fundamentais para a construção de páginas da Web modernas e responsivas, permitindo que desenvolvedores criem interfaces atraentes e funcionais para usuários em uma ampla variedade de dispositivos e plataformas. São elas:
+* `HTML` - Linguagem de marcação para definir a estrutura básica de uma página da Web, incluindo títulos, parágrafos, links, imagens e outros elementos visuais e interativos.
+* `CSS` - Linguagem de estilização para criar a aparência visual de uma página da Web, controlar o estilo, o layout, a tipografia, entre outros elementos de uma página, permitindo que as páginas sejam apresentadas de maneira mais atraente e coerente, além de disponibilizar recursos que tornam a página responsiva.
 
-## Build
+Além disso, foi utilizado o seguinte Framework para tornar as páginas dinâmicas:
+* `Angular` - Framework baseado em TypeScript, mantido pelo Google, que permite criar aplicativos web de página única(SPAs) escaláveis e de alto desempenho, fornecendo recursos poderosos para gerenciar dados, construir interfaces de usuário dinâmicas e estender funcionalidades por meio de componentes e serviços.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+ # :open_file_folder: O resultado
+ 
+ ![Design sem nome2](https://user-images.githubusercontent.com/69852246/235329959-8976dc2c-ad1d-4789-b9ad-f8632dd0f134.gif)
+ 
+ # :link: Links úteis
+* [Plataforma da DIO](https://www.dio.me/)
+* [Meu LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/)
 
-## Running unit tests
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
